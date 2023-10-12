@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Job_It",
-    "slug": "Job_It",
+    "name": "JobSift",
+    "slug": "JobSift",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
